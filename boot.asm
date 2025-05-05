@@ -1,4 +1,4 @@
-[BITS 16]
+[BITS 16]               ;its for the bits
 [ORG 0x7C00]           ;the adress where the loading of boot loader is done
 
 start:
