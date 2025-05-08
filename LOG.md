@@ -18,3 +18,6 @@ mov ax, 1234
 **
 **i wrote my first code by understanding and remembering what to do and i understood and wrote without looking at any code**
 **the code is printout the infinite loop one is bootsector.asm**
+
+4. 2025/05/08
+**from the book i used the memory referncing and dereferncing by using th bx register and why bx is used becasue it is allowed for indirect memory adressing and learned about the[org] directive and for defining string inside the code in the bois screen**
