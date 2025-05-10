@@ -25,3 +25,6 @@ mov ax, 1234
 5.2025/05/09
 **learned about the stack with example and about the push and pop and the how the stack pointer is calculated so [sp=starting adress-2]and if the push A meaning push stores the value of 0041 in 0x7ffe**
 **please learn the stack from example if you ask me if you want to know it works,thats how i learned it too and tomorrow i will learn the asm instruction and write simple code for assembly to help me build the os**
+
+10.2025/05/09
+**i solved the task but it still shows error for blank screen and i cant seem to figure it out** will try tomorrow agaian
