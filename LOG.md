@@ -30,4 +30,4 @@ mov ax, 1234
 **i solved the task but it still shows error for blank screen and i cant seem to figure it out** will try tomorrow agaian**
 
 11.2025/05/11
-**learned about the control and conditional jump and solved two task ,always solve two to three example and always think why you need that thing in that place **
+**learned about the control and conditional jump and solved two task ,always solve two to three example and always think why you need that thing in that place **for 3 to 4 days i will like to learn about the os in https://www.geeksforgeeks.org/operating-systems/
