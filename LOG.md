@@ -34,3 +34,13 @@ mov ax, 1234
 
 12.2025/05/12
 **i leanred about the function call and ret and pusha and popa for protecting the data and the registers**
+
+13.2025/05/13
+**
+what i learned today
+ SI & lodsb---->>> Used to read strings from memory
+ Looping---->>> Printed each character one by one
+ Functions---->>> Called print_string cleanly with call / ret
+ Dots in labels---->>> Learned they help organize code inside functions
+ Why it matters---->>> Understood how this builds up toward a real OS**
+
