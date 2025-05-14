@@ -44,3 +44,7 @@ what i learned today
  Dots in labels---->>> Learned they help organize code inside functions
  Why it matters---->>> Understood how this builds up toward a real OS**
 
+14.2025/05/14
+**Read a key from the keyboard
+Show it on screen
+Save it for later use (like building a command!)**
