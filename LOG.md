@@ -48,3 +48,7 @@ what i learned today
 **Read a key from the keyboard
 Show it on screen
 Save it for later use (like building a command!)**
+
+11.2025/05/15
+ ** tried recreating command doesnt work so debugginf it**
+ 
