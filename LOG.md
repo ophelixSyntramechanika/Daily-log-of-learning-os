@@ -50,5 +50,8 @@ Show it on screen
 Save it for later use (like building a command!)**
 
 11.2025/05/15
- ** tried recreating command doesnt work so debugginf it**
+ ** tried recreating command doesnt work so debugginf it**//11:02 fixed the problem by changing th 1 and 0 an the given value
+
+ 12 2025/05/20
+ "its the final file and after 5 days i found that i forget how to debug it so all night spent on debugging"
  
